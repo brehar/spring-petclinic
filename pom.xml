@@ -18,7 +18,7 @@
 
   <groupId>me.bretthartman</groupId>
   <artifactId>spring-petclinic</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.4</version>
 
   <name>spring-petclinic</name>
   <description>A revised implementation of the Spring PetClinic example project</description>
@@ -48,6 +48,6 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:brehar/spring-petclinic.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>spring-petclinic-0.0.4</tag>
   </scm>
 </project>
