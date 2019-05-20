@@ -20,7 +20,7 @@
 
   <groupId>me.bretthartman</groupId>
   <artifactId>spring-petclinic</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
 
   <name>spring-petclinic</name>
   <description>A revised implementation of the Spring PetClinic example project</description>
